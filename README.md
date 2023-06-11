@@ -1,5 +1,5 @@
 # Honey Bot
-A twitter bot intended to expose compromised accounts and scammers. It posts bait tweets, checks who replied, then adds them to a long list of compromised accounts.
+A twitter bot that identifies and tags compromised accounts and scammers. It posts bait tweets, checks who replied, then adds them to a long list of compromised accounts.
 
 This is tested and working (the bait worked FAST), but Elon has decided to restrict reading tweets to the $100 month Basic tier. For now, and until he grants me access, that's a bit steep for something I think should be free.
 
